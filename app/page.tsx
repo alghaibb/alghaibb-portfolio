@@ -53,15 +53,15 @@ export default function Home() {
         </div>
         <div className='prose max-w-none prose-lg pt-8 pb-8 dark:prose-invert xl:col-span-2'>
           <p>
-            Hello all, I'm Mahmoud, a 26-year-old junior Full Stack developer currently situated in Australia.
+            {`Hello all, I'm Mahmoud, a 26-year-old junior Full Stack developer currently situated in Australia.`}
           </p>
 
           <p>
-            I just finished a challenging six-month coding bootcamp in full Stack development, and I'm ready to start an exciting new chapter in the world of technology. With a solid background in both front-end and back-end development, I'm excited to put my newly acquired knowledge to use and contribute to cutting-edge projects. I've developed my skills over my time at the bootcamp, and I'm excited about the chance to work with others to develop innovative solutions and take on new problems.
+            {`I just finished a challenging six-month coding bootcamp in full Stack development, and I'm ready to start an exciting new chapter in the world of technology. With a solid background in both front-end and back-end development, I'm excited to put my newly acquired knowledge to use and contribute to cutting-edge projects. I've developed my skills over my time at the bootcamp, and I'm excited about the chance to work with others to develop innovative solutions and take on new problems.`}
           </p>
 
           <p>
-            I am motivated by a love of coding and a keen interest in the always changing field of web development. I am looking forward to using my experience in my work as a Full Stack developer to create fascinating, impacting projects since I have a strong desire to have a significant influence. My commitment and zeal motivate me to actively contribute to the growth of the software development industry's future by always exploring new technological possibilities.
+            {`I am motivated by a love of coding and a keen interest in the always changing field of web development. I am looking forward to using my experience in my work as a Full Stack developer to create fascinating, impacting projects since I have a strong desire to have a significant influence. My commitment and zeal motivate me to actively contribute to the growth of the software development industry's future by always exploring new technological possibilities.`}
           </p>
 
         </div>
